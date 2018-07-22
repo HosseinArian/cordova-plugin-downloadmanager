@@ -1,3 +1,5 @@
+this plugin fork from vasani-arpit/cordova-plugin-downloadmanager and change download path to default android system download dirctory
+
 # cordova-plugin-downloadmanager
 A Cordova plugin to download file in system's default download manager
 
@@ -8,7 +10,7 @@ A Cordova plugin to download file in system's default download manager
  ## Installation
 
  ```
- cordova plugin add https://github.com/vasani-arpit/cordova-plugin-downloadmanager
+ cordova plugin add https://github.com/HosseinArian/cordova-plugin-downloadmanager
  ```
 
  ## How to Use 
